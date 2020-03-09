@@ -8,3 +8,5 @@ git push --tag
 git log --pretty=oneline
 git tag -a 标签名  log对应的id -m '内容'
 git push --tag
+-----------------------------------------
+this is test
