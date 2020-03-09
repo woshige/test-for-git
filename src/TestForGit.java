@@ -3,6 +3,6 @@ public class TestForGit {
         System.out.println("这是我的本地修改");
         System.out.println("this is my frist remote change");
         System.out.println("这是我的第二次远端修改");
-        System.out.println("this is my last local update");
+        System.out.println("this is my last remote commit");
     }
 }
